@@ -1,7 +1,7 @@
 {
     "name": {
         "en": "Abu omar",
-        "ar": "\u0633\u0644\u0645"
+        "ar": "سلم"
     },
     "description": {
         "en": "",
@@ -10,5 +10,8 @@
     "author_email": "reeving9@gmail.com",
     "support_url": "",
     "repository": "https://github.com/yfb78g9pbn-debug/tw-abu-omar",
-    "components": []
+    "components": [],
+    "features": [
+        "landing-page-templates"
+    ]
 }
